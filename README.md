@@ -1,52 +1,39 @@
-# 👋 Hello World
+# Hello World Web Project
 
-Welcome to the classic first step into any coding adventure. This is your **Hello World** repo — simple, iconic, and timeless.
+This project is a simple web application that displays "Hello World" on the webpage.
 
----
+## Live: [Hello World](https://mksourabh.github.io/Hello-world/)
 
-## 🚀 About
+## Project Structure
 
-This repository exists to:
-- Practice GitHub basics
-- Test commits, branches, and pull requests
-- Have a home for the world's friendliest greeting
-
----
-
-## 🛠 How to Run
-
-```bash
-echo "Hello, World!"
+```
+hello-world-web
+├── src
+│   ├── index.html       # Main HTML document
+│   ├── styles
+│   │   └── style.css    # CSS styles for the webpage
+│   └── scripts
+│       └── app.js       # JavaScript code for functionality
+└── README.md            # Project documentation
 ```
 
-Or in your favorite language:
+## Getting Started
 
-```python
-print("Hello, World!")
-```
+To run this project, follow these steps:
 
----
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. You should see "Hello World" displayed on the page.
 
-## ✨ Features
+## Customization
 
-- ✅ Zero setup
-- 🧠 Beginner friendly
-- 🐣 First step to badge greatness
+- You can modify the styles in `src/styles/style.css` to change the appearance of the webpage.
+- If you want to add functionality, you can write JavaScript code in `src/scripts/app.js`. 
 
----
+Enjoy exploring and customizing your Hello World web project!
 
-## 📊 Badge
+## 👨‍💻 Creator
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
----
-
-## 🙌 Contributing
-
-This repo is just for fun. Fork it, PR something silly, say hi!
-
----
-
-## 🔗 Author
-
-Made with ❤️ by [MKSourabh](https://github.com/MKSourabh)
+Made by [@MKSourabh](https://github.com/MKSourabh)  
+📫 Email: [kireetisourabhmangalampally@gmail.com](mailto:kireetisourabhmangalampally@gmail.com)  
+📸 Instagram: [@mk__sourabh](https://instagram.com/mk__sourabh)
