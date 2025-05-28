@@ -4,7 +4,7 @@ This project is a simple web application that displays "Hello World" on the webp
 
 ## Live
 
-https://mksourabh.github.io/Hello-world/
+[Hello World](https://mksourabh.github.io/Hello-world/).
 
 ## Project Structure
 
