@@ -2,9 +2,7 @@
 
 This project is a simple web application that displays "Hello World" on the webpage.
 
-## Live
-
-[Hello World](https://mksourabh.github.io/Hello-world/)
+## Live: [Hello World](https://mksourabh.github.io/Hello-world/)
 
 ## Project Structure
 
@@ -33,3 +31,9 @@ To run this project, follow these steps:
 - If you want to add functionality, you can write JavaScript code in `src/scripts/app.js`. 
 
 Enjoy exploring and customizing your Hello World web project!
+
+## 👨‍💻 Creator
+
+Made by [@MKSourabh](https://github.com/MKSourabh)  
+📫 Email: [kireetisourabhmangalampally@gmail.com](mailto:kireetisourabhmangalampally@gmail.com)  
+📸 Instagram: [@mk__sourabh](https://instagram.com/mk__sourabh)
